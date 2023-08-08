@@ -1,10 +1,4 @@
 CodigoContexto;CodigoFraccion;CodigoMuestra;CodigoTaxon;CodigoYacimiento;Conservacion;CulturaContexto;Divisor;Especie;esTaxonSQLFastUUID;Familia;FaseContexto;Fragmentos;Genero;GrupoTaxon;Identificacion;Individuos;LabelResto;ListaTerritorios;MultiFrag;MultiIndi;MultiNMI;Multiplicador;NMI;NombreCientifico;Observaciones;TAQContexto;TaxonAnalitica1;TaxonAnalitica1Etiqueta;TaxonAnalitica2;TaxonAnalitica2Etiqueta;TaxonAnalitica3;TaxonAnalitica3Etiqueta;TipoTaxon;TPQContexto
-1004;f-0,25mm;1004-1;HOVUN;CO;Carbonizado;;2;Hordeum vulgare;1;Poaceae;;;Hordeum;Cereales;;2;"Hordeum vulgare var. nudum  ; Semilla carb.";"Mediterraneo Occidental
-Península Ibérica
-País Valencià";0;2;2;1;2;Hordeum vulgare var. nudum ;;;;;;;;;Semilla;
-3042;f-0,25mm;3042-1;INDET;MFAB;Carbonizado;Primer Hierro;2;Indeterminata ;0;Indeterminata;Ferro VIII;;Indeterminata;Silvestres;;1;"Indeterminata ; Semilla carb.";;0;1;1;1;1;Indeterminata;;-700;;;;;;;Semilla;-800
-3204;f-0,25mm;3204-1;LEIND;MFAB;Carbonizado;Primer Hierro;2;Leguminosa indeterminata;0;Fabaceae;Ferro IX-VIII;;Leguminosa;Silvestres;;1;"Leguminosa indeterminata ; Semilla carb.";;0;1;1;1;1;Leguminosa indeterminata;;-700;;;;;;;Semilla;-900
-3218;f-0,25mm;3218-1;HOVUL;MFAB;Carbonizado;Primer Hierro;2;Hordeum vulgare;1;Poaceae;Ferro VIII-VII;;Hordeum;Cereales;;1;"Hordeum vulgare ; Semilla carb.";;0;1;1;1;1;Hordeum vulgare;foto;-600;;;;;;;Semilla;-900
 3149;f-0,25mm;3149-1;TRMOD;MFAB;Carbonizado;Primer Hierro;2;"Triticum monococcum
 Triticum dicoccum";1;Poaceae;Ferro VII-VI;;Triticum;Cereales;;1;"Triticum monococcum/dicoccum ; Semilla carb.";;0;1;1;1;1;Triticum monococcum/dicoccum;foto;-500;;;;;;;Semilla;-700
 3158;f-0,25mm;3158-1;ARUNE;MFAB;Carbonizado;Islámico;2;Arbutus unedo;1;Ericaceae;Islàmic IX-X;1;Arbutus;Frutos recolectados;;;"Arbutus unedo ; Fruto carb.";;0;0;0;1;0,5;Arbutus unedo;foto;1000;;;;;;;Fruto;800
